@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="framework_jiekou" />
+    <orderEntry type="module" module-name="beigong" />
+    <orderEntry type="module" module-name="excelddtdriver" />
+    <orderEntry type="module" module-name="M4MUI自动化" />
+    <orderEntry type="module" module-name="FXTest" />
+    <orderEntry type="module" module-name="DjangoProject" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="pyautoTest" />
+  </component>
+</module>

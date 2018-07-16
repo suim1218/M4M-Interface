@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/DDT(1)/.idea/DDT(1).iml" filepath="$USER_HOME$/Desktop/DDT(1)/.idea/DDT(1).iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/DjangoProject/.idea/DjangoProject.iml" filepath="$USER_HOME$/Desktop/DjangoProject/.idea/DjangoProject.iml" />
+      <module fileurl="file://G:/接口平台/FXTest/.idea/FXTest.iml" filepath="G:/接口平台/FXTest/.idea/FXTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/M4MInterface.iml" filepath="$PROJECT_DIR$/.idea/M4MInterface.iml" />
+      <module fileurl="file://F:/M4MUI/.idea/M4MUI自动化.iml" filepath="F:/M4MUI/.idea/M4MUI自动化.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled1/北弓/.idea/beigong.iml" filepath="$USER_HOME$/PycharmProjects/untitled1/北弓/.idea/beigong.iml" />
+      <module fileurl="file://F:/DDT/.idea/excelddtdriver.iml" filepath="F:/DDT/.idea/excelddtdriver.iml" />
+      <module fileurl="file://F:/framework_jiekou/.idea/framework_jiekou.iml" filepath="F:/framework_jiekou/.idea/framework_jiekou.iml" />
+      <module fileurl="file://F:/pyautoTest/pyautoTest/.idea/pyautoTest.iml" filepath="F:/pyautoTest/pyautoTest/.idea/pyautoTest.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/test/.idea/test.iml" filepath="$USER_HOME$/Desktop/test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
